@@ -1,4 +1,4 @@
-# quarkus-ai-llm-translator
+# quarkus-ai-llm-summarizer
 
 This project uses Quarkus to create a summarizer REST service for test and files. It uses Ollama (llama3.1) LLM in order to do the task.
 
